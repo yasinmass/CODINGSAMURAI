@@ -13,3 +13,4 @@ wheels/
 *.toml
 uv.lock
 
+.python-version
